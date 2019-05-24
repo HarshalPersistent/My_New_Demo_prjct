@@ -1,7 +1,7 @@
 class MyClass{
 
 	void myMethod() {
-		syso("some business logic");
+		System.out.printLn("some business logic");
 	}
 	main(){
 		Sysout("Hello Git");
@@ -11,6 +11,7 @@ class MyClass{
 		syso("new commit added");
 
 		syso("commit made by other guy")
+		syso('idea branch')
 
 
 	}
