@@ -5,7 +5,7 @@ class MyClass{
 	}
 	main(){
 		Sysout("Hello Git");
-
+		making change in master
 		callMe();
 		hi added
 		syso("new commit added");
