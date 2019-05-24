@@ -5,9 +5,13 @@ class MyClass{
 	}
 	main(){
 		Sysout("Hello Git");
+
 		callMe();
 		hi added
 		syso("new commit added");
+
+		syso("commit made by other guy")
+
 
 	}
 
