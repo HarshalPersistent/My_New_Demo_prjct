@@ -5,6 +5,7 @@ class MyClass{
 	}
 	main(){
 		Sysout("Hello Git");
+		callHim();
 		callMe();
 		syso("commit made by other guy")
 
